@@ -5,7 +5,7 @@ Fixed the HP5 dependencies to stop it breaking. I am looking for some help with 
 ## Installation
 
 ```bash
-composer require chali5124/laravel-h5p
+composer require garethredfern/laravel-h5p
 ```
 
 ```bash
