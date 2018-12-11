@@ -42,5 +42,5 @@ Create a vendor directory if it doesn't exist in your public/assets folder, then
 
 ```bash
 cd public/assets/vendor
-ln -s ../../storage/h5p
+ln -s ../../../storage/h5p
 ```
