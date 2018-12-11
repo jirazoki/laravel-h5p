@@ -37,9 +37,10 @@ php artisan migrate
 ];
 ```
 
-```bash
-cd public/assets;
-ln -s ../../storage/h5p;  
-```
 
-On Development...
+Create a vendor directory if it doesn't exist in your public/assets folder, then symlink to the `h5p` directory in your storage folder. You can set your public path in the config/laravel-h5p file.
+
+```bash
+cd public/assets/vendor
+ln -s ../../storage/h5p
+```
