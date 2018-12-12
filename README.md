@@ -2,6 +2,8 @@
 A copy of the HP5 Laravel package that does not exist on Bitbucket anymore.
 Fixed the HP5 dependencies to stop it breaking. I am looking for some help with this, the package works as is but ideally you should be able to update the h5p dependencies, currently this is not possible.
 
+A [Wiki](https://github.com/garethredfern/laravel-h5p/wiki) has been created to put some initial notes together.
+
 ## Installation
 
 ```bash
